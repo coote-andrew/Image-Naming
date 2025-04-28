@@ -58,8 +58,10 @@ destination_root — where you want the sorted images saved.
 allowed_folders — must match exactly (case-sensitive) what the AI can pick from.
 
 ## Running the Script
-Once you've set up your folders and Ollama is running:
+(in case you're not familiar with Git - just click on the python file and then download in the triple dots to get the image_classifier file
+Otherwise use git clone)
 
+Once you've set up your folders and Ollama is running:
 ```
 python image_classifier.py
 ```
